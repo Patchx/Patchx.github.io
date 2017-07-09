@@ -38,13 +38,11 @@ links:
     url: /tags
   - title: about me
     url: /about
+
 # projects in header index
 projects:
-  - name: asciilang
-    url: https://github.com/victorvoid/asciilang
-  - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
-  - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+  - name: test
+    url: https://github.com/Patchx/patchx.github.io
+
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
