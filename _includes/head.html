@@ -7,11 +7,6 @@
 
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-    <!-- Cache -->
-    <meta 
-        http-equiv="Cache-control" 
-        max-age="31536000">
-
     <!-- Social Twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{site.twitter_username}}">
