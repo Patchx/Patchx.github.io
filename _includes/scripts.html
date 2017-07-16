@@ -1,2 +1,9 @@
-<script src="{{ "/assets/js/main.js" | prepend: site.baseurl }}"></script>
-<script src="{{ "/assets/js/vue.min.js" | prepend: site.baseurl }}"></script>
+<script 
+	Cache-Control: max-age=31536000
+	src="{{ "/assets/js/main.js" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}"
+></script>
+
+<script 
+	Cache-Control: max-age=31536000	
+	src="{{ "/assets/js/vue.min.js" | prepend: site.baseurl }}?{{site.time | date: '%s%N'}}"
+></script>
