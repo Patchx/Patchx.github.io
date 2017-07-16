@@ -18,13 +18,12 @@ baseurl: "" # the subpath
 url: "" # the base hostname &/|| protocol for your site 
 
 # User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
+username: Robert Anderson
+user_description: Robert Anderson - Developer
+user_title: Robert Anderson
+email: robert.anderson.fl@gmail.com
+twitter_username: randerTw
+github_username:  Patchx
 disqus_username: loremipsum
 
 ```
