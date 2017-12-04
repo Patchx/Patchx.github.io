@@ -13,7 +13,7 @@ After experimenting for awhile with different setups, I wanted to give back alit
 
 <h3>On Mouse Buttons</h3>
 
-Since the number of mouse buttons varies widely, depending on what hardware you are running, I've started with the assumption that you are using a non-gaming mouse with 1-2 extra mouse buttons accessible to you. Obviously, the more buttons you have on the mouse, the more options you will be able to play with in your own setup.  But, this 'bare-bones' setup below should give you a starting point to expand and tweak as you see fit.
+Since the number of mouse buttons varies widely depending on what hardware you are running, I've started with the assumption that you are using a non-gaming mouse with 1-2 extra mouse buttons accessible to you. Obviously, the more buttons you have on the mouse, the more options you will be able to play with in your own setup.  But, this 'bare-bones' setup below should give you a starting point to expand and tweak as you see fit.
 
 
 <hr>
