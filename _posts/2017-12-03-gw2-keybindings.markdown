@@ -25,7 +25,7 @@ After experimenting with different setups, I wanted to describe my own set of ke
 
 <h2>The Action Camera</h2>
 
-<p>This setup makes use of a Guild Wars 2 feature known as the 'Action Camera'.  When Action Cam is enabled, the camera automatically rotates as you move the mouse.  This means that all of the mouse buttons are free to perform actions.  During Action Cam, the left-click performs your standard auto attack, while the right-click selects the target in your reticle.  Because these options are 'locked-in', the only flexibility with this setup is what to do with the additional mouse buttons.</p>
+<p>This setup makes use of a Guild Wars 2 feature known as the 'Action Camera'.  When Action Cam is enabled, the camera automatically rotates as you move the mouse.  This means that all of the mouse buttons are free to perform actions.  During Action Cam, the left-click performs your standard auto attack, while the right-click selects the target in your reticle.  Because these options are locked-in, the only flexibility with this setup is what to do with the additional mouse buttons.</p>
 
 <p>For the most limited version of the mouse, I've chosen to bind the Mouse3 button to the 'Look Back' command.</p>
 
