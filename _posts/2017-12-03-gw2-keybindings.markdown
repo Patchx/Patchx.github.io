@@ -22,7 +22,7 @@ Since the number of mouse buttons varies widely depending on what hardware you a
 <h3>Windows Setup</h3>
 
 <img 
-	src="https://res.cloudinary.com/lessondb/image/upload/v1512355870/Blog/GW2/gw2-windows-layout.png"
+	src="https://res.cloudinary.com/lessondb/image/upload/v1512357129/Blog/GW2/gw2-windows-layout.png"
 	style="width:100%">
 
 
@@ -32,7 +32,7 @@ Since the number of mouse buttons varies widely depending on what hardware you a
 <h3>Mac Setup</h3>
 
 <img 
-	src="https://res.cloudinary.com/lessondb/image/upload/v1512355269/Blog/GW2/gw2-apple-layout.png"
+	src="https://res.cloudinary.com/lessondb/image/upload/v1512357136/Blog/GW2/gw2-apple-layout.png"
 	style="width:100%">
 
 <hr>
