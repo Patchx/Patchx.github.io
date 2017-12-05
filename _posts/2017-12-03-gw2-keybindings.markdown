@@ -25,11 +25,11 @@ After experimenting with different setups, I wanted to describe my own set of ke
 
 <h2>The Action Camera</h2>
 
-<p>This setup makes use of a Guild Wars 2 feature known as the 'Action Camera'.  When Action Cam is enabled, the camera automatically rotates as you move the mouse.  This means that all of the mouse buttons are free to perform actions.  During Action Cam, the left click performs your standard auto attack, while the right click selects the target in your reticle.  Because these options are 'locked-in', the only flexibility with this setup is what to do with the additional mouse buttons.</p>
+<p>This setup makes use of a Guild Wars 2 feature known as the 'Action Camera'.  When Action Cam is enabled, the camera automatically rotates as you move the mouse.  This means that all of the mouse buttons are free to perform actions.  During Action Cam, the left-click performs your standard auto attack, while the right-click selects the target in your reticle.  Because these options are 'locked-in', the only flexibility with this setup is what to do with the additional mouse buttons.</p>
 
 <p>For the most limited version of the mouse, I've chosen to bind the Mouse3 button to the 'Look Back' command.</p>
 
-<p>The Look Back command is really helpful in PvP for knowing when to dodge enemy attacks.  It's also helpful because it encourages you to look over your shoulder often to see if a troublesome Thief or Mesmer is trying to gank you.  In addition, you can do things like hit a pursuing enemy with an hard cc, or use an 'jump-back' type ability like the Ranger's Quick Shot while still fleeing from the enemy.</p>
+<p>The Look Back command is really helpful in PvP for knowing when to dodge enemy attacks.  It's also helpful because it encourages you to look over your shoulder often to see if a troublesome Thief is trying to gank you.  In addition, you can do things like hit a pursuing enemy with an hard cc, or use an 'jump-back' type ability like the Ranger's Quick Shot while still fleeing from the enemy.</p>
 
 <br>
 
@@ -82,6 +82,12 @@ After experimenting with different setups, I wanted to describe my own set of ke
 <img 
 	src="https://res.cloudinary.com/lessondb/image/upload/v1512352621/Blog/GW2/gw2_keybinds_2_2017.png"
 	style="width:100%">
+
+<br>
+
+<p>For a gaming mouse with access to multiple thumb buttons, I would modify this setup to move the Profession skills to the mouse buttons.  This keeps your pinky finger firmly planted on the Shift key, helping you not lose your place on the keyboard.</p>
+
+<br>
 
 <hr>
 
