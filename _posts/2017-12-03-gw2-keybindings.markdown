@@ -3,6 +3,7 @@ layout: default
 title:  "Guild Wars 2 Keybindings"
 date:   2017-12-03 15:59:20 -0400
 categories: gaming gw2
+comments: true
 ---
 
 <h1>Guild Wars 2 Keybindings</h1>
@@ -98,3 +99,27 @@ After experimenting with different setups, I wanted to describe my own set of ke
 <p>That's it!  I hope you find that helpful - and let me know if you have any other ideas on on keybind setups!</p>
 
 <br>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+
+var disqus_config = function () {
+	this.page.url = '/gaming/gw2/2017/12/03/gw2-keybindings.html';
+	this.page.identifier = 'gw2-keybindings'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://robanderson-works.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<!-- Comment count -->
+<script id="dsq-count-scr" src="//robanderson-works.disqus.com/count.js" async></script>
