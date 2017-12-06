@@ -96,7 +96,7 @@ After experimenting with different setups, I wanted to describe my own set of ke
 
 <h2>Conclusion</h2>
 
-<p>That's it!  I hope you find that helpful - and let me know if you have any other ideas on on keybind setups!</p>
+<p>That's it!  I hope you find that helpful - and let me know if you have any other ideas on keybind setups!</p>
 
 <br>
 
