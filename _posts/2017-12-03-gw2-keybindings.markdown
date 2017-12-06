@@ -109,7 +109,7 @@ After experimenting with different setups, I wanted to describe my own set of ke
 
 var disqus_config = function () {
 	this.page.url = '/gaming/gw2/2017/12/03/gw2-keybindings.html';
-	this.page.identifier = 'gw2-keybindings'; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+	this.page.identifier = 'gw2-keybindings';
 };
 
 (function() { // DON'T EDIT BELOW THIS LINE
